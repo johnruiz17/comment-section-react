@@ -1,8 +1,29 @@
-# React + Vite
+## React Comment Section
+<img width="823" alt="Screenshot 2024-08-08 at 9 54 37 PM" src="https://github.com/user-attachments/assets/14cc85f9-9a22-45df-a3e2-587b657bcb52">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This React application allows users to add, edit, delete, and reply to comments.
 
-Currently, two official plugins are available:
+## Technologies Used
+* React
+* React Hooks (useState, useEffect)
+* UUID (for generating unique IDs)
+  
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/johnruiz17/comment-section-react
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Install dependencies:
+```bash
+npm install
+```
+
+## Usage
+1. Run the development server:
+```bash
+npm run dev
+```
+
+2. Open the application in your browser at http://localhost:5173/
