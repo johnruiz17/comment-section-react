@@ -1,5 +1,5 @@
 ## React Comment Section
-<img width="823" alt="Screenshot 2024-08-08 at 9 54 37 PM" src="https://github.com/user-attachments/assets/14cc85f9-9a22-45df-a3e2-587b657bcb52">
+
 
 ## Description
 This React application allows users to add, edit, delete, and reply to comments.
